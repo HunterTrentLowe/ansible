@@ -1,0 +1,8 @@
+[webservers]
+prc-apache2-vm-01
+
+[appservers]
+prc-appsrv-vm-01
+
+[dbservers]
+prc-mysql-vm-01
